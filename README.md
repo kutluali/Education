@@ -1,8 +1,9 @@
 
-<h1 align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50">
-  Education - Eğitim Platformu
+<h1>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50" style="vertical-align: middle;">
+  📚 Education Online - Eğitim Platformu
 </h1>
+
 
 
 Bu proje, **Udemy + Medium tarzında** bir eğitim platformudur.  
