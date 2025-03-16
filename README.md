@@ -1,23 +1,31 @@
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/250px-.NET_Core_Logo.svg.png) 
-
-    
-# Education Online Eğitim Platformu
-
-Udemy + Medium tarzı bir Platform olarak geliştirdiğim projede, Öğrenciler seçtikleri kurslardan eğitim alırken. Admin ve Eğitmenleriiz blog yazıları ve Kurs içerikleri ekleyebilmekteler. 
-Kullanıcıların Rollerine göre admin sayfları mevcut. 
+<h1 align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50">
+  Education - Eğitim Platformu
+</h1>
 
 
-## Kullanılan Teknojiler
+Bu proje, **Udemy + Medium tarzında** bir eğitim platformudur.  
 
-- Asp.Net Core 8.0
-- N-Tier Architecture 
-- 6 Katmanlı Mimari(+API)
-- Identity Framework
-- Json Web Token
-- MSSQL Server
-- Code First
-- JavaScript
+- **👩‍🎓 Öğrenciler**, seçtikleri kurslardan eğitim alabilir.  
+- **📝 Admin ve Eğitmenler**, blog yazıları ve kurs içerikleri ekleyebilir.  
+- **🔐 Kullanıcı rolleri**, **JSON Web Token (JWT)** ve **EF Core Identity** ile yönetilmektedir.  
+- **⚡ Yetkilendirme ve kimlik doğrulama** işlemleri, kullanıcı rollerine göre gerçekleştirilir.  
+- **🏗️ Proje, 6 katmanlı N-Tier Architecture yapısında geliştirilmiştir.**  
+
+---
+
+## 🚀 Kullanılan Teknolojiler  
+
+✅ **ASP.NET Core 8.0**  
+✅ **N-Tier Architecture (6 Katmanlı Mimari + API)**  
+✅ **Identity Framework**  
+✅ **JSON Web Token (JWT)**  
+✅ **MSSQL Server**  
+✅ **Code First Approach**  
+✅ **JavaScript**  
+
+---
 
   ![1](https://github.com/user-attachments/assets/da1d20a7-24b8-4258-b2ab-0c3652eb1731)
 ![2](https://github.com/user-attachments/assets/77f535ba-b573-474d-83ac-0ab883377a05)
